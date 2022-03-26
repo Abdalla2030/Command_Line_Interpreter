@@ -1,4 +1,4 @@
-# -Command_Line_Interpreter
+# Command_Line_Interpreter
 Simulating the Command Line Interpreter of Linux Systems using Java programming languages for some of commands.
 
 An operating system interfaces with a user through a Command Line Interpreter (CLI). A CLI is a software module capable of interpreting textual commands coming either from the user’s keyboard or from a script file. A CLI is often referred to as a shell.
